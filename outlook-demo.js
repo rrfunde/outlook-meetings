@@ -3,7 +3,7 @@ $(function() {
   var authEndpoint = 'https://login.microsoftonline.com/common/oauth2/v2.0/authorize?';
   var apiEndpoint = 'https://outlook.office.com/api/v2.0';
   var redirectUri = 'http://localhost:8000/outlook/index.html';
-  var appId = '5c27f8c5-5fb6-49fa-9439-2c19da6fe10e';
+  var appId = // PUT YOUR API KEY HERE 
   var scopes = 'openid profile https://outlook.office.com/mail.read https://outlook.office.com/calendars.read https://outlook.office.com/contacts.read https://outlook.office.com/calendars.readwrite.shared';
 
   // Check for browser support for sessionStorage
