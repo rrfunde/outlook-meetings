@@ -596,16 +596,17 @@ $(function() {
                {
                  "Start": {
                    "DateTime": "2017-09-19T08:00:00Z",
-                   "TimeZone": "UTC"
+                   "TimeZone": "Tokyo Standard Time"
                  },
                  "End": {
                    "DateTime": "2017-09-20T06:00:00Z",
-                   "TimeZone": "UTC"
+                   "TimeZone": "Tokyo Standard Time"
                  }
                }
              ]
            },
-           "MeetingDuration": "PT30M"
+           "MeetingDuration": "PT30M",
+           "ReturnSuggestionReasons": "true"
           }
         };
 
