@@ -1,4 +1,4 @@
-#Outlook Mettings
+# Outlook Mettings
 
 This project aims to create a web application which will help us to book meeting rooms in any organization or for personal use. User can specify the members which needs to attend the meeting or the number of percentage people must be available for particular meeting. User can set start and date and time and time duration to find available time slots and locations for meetings.
 
