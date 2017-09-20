@@ -8,3 +8,7 @@ This project aims to create a web application which will help us to book meeting
 3.  Create groups of people for future referencing( stored searches).
 4.  Machine learning suggestions of people based on history and user behaviour. 
 5.  It will allow to book meetings by single click.
+
+
+
+### The project is pending as we are not getting meeting room details using the outlook-api
